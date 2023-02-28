@@ -1,6 +1,6 @@
 # doughnat_ASCII
 
-download repo 
+#### Download repo 
 
 >build: gcc main.cpp -0 main
 
